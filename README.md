@@ -1,2 +1,2 @@
 # New-project
-Auther - Aarti Tungar
+Author - Aarti Tungar
